@@ -3,8 +3,8 @@
 <h1 align="center">Haiiiiiiiiii, I'm Bea ✨</h1>
 
 <p align="center">
-  *✧ Developer @ <a href="https://heexy.org" target="_blank"><b>heexy.org</b></a> ✧* <br>
-  *✧ Mainly code in <b>Python</b> + <b>Rust</b> ✧* <br>
+  *✧ Developer @ <a href="https://heexy.org" target="_blank"><b>heexy.org</b></a> :3 ✧* <br>
+  *✧ Mainly coding in <b>Python</b> + <b>Rust</b> rn✧* <br>
   *✧ I really like cats (borderline religioulsy >w<) ✧* <br>
   *✧ And yes... I use Arch btw :3 ✧*
 </p>
@@ -14,8 +14,8 @@
 
 <!-- GitHub Stats + Streaks -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsfimes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" height="180" alt="github stats"/>
-  <img src="https://streak-stats.demolab.com?user=itsfimes&theme=tokyonight&hide_border=true&border_radius=20" height="180" alt="github streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsfimes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" width="315", height="150", alt="github stats"/>
+  <img src="https://streak-stats.demolab.com?user=itsfimes&theme=tokyonight&hide_border=true&border_radius=15" width="330", height="150", alt="github streak"/>
 </p>
 
 _these stats are gonna get better one day, hopefully :p_
