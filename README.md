@@ -14,9 +14,16 @@
 
 <!-- GitHub Stats + Streaks -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsfimes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" width="315", height="150", alt="github stats"/>
-  <img src="https://streak-stats.demolab.com?user=itsfimes&theme=tokyonight&hide_border=true&border_radius=15" width="330", height="150", alt="github streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsfimes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" width="315" height="150" alt="github stats"/>
+  <img src="https://streak-stats.demolab.com?user=itsfimes&theme=tokyonight&hide_border=true&border_radius=15" width="330" height="150" alt="github streak"/>
 </p>
+
+<p align="center">
+  <a href="https://wakatime.com/@6e74275c-f530-419e-82a3-2caf6dffbe1a">
+    <img src="https://wakatime.com/badge/user/6e74275c-f530-419e-82a3-2caf6dffbe1a.svg" alt="Total time coded since joining WakaTime"/>
+  </a>
+</p>
+
 
 _these stats are gonna get better one day, hopefully :p_
 
