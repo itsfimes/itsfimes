@@ -24,8 +24,11 @@
   </a>
 </p>
 
+<p align="center">
+    <i>these stats are gonna get better one day, hopefully :p</i>
+</p>
 
-_these stats are gonna get better one day, hopefully :p_
+
 
 ---
 
