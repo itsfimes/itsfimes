@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsfimes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" width="315" height="150" alt="GitHub stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=itsfimes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" width="315" height="150" alt="GitHub stats"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=itsfimes&theme=tokyonight&hide_border=true&border_radius=15" width="330" height="150" alt="GitHub streak"/>
 </p>
 
